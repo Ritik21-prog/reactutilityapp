@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/reactutilityapp/static/css/main.073c9b0a.css",
+    "main.js": "/reactutilityapp/static/js/main.80a35d44.js",
+    "static/js/787.78a95e38.chunk.js": "/reactutilityapp/static/js/787.78a95e38.chunk.js",
+    "index.html": "/reactutilityapp/index.html",
+    "main.073c9b0a.css.map": "/reactutilityapp/static/css/main.073c9b0a.css.map",
+    "main.80a35d44.js.map": "/reactutilityapp/static/js/main.80a35d44.js.map",
+    "787.78a95e38.chunk.js.map": "/reactutilityapp/static/js/787.78a95e38.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.80a35d44.js"
+  ]
+}
